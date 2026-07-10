@@ -36,14 +36,6 @@
 
 ---
 
-## GitHub Stats
-
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/alan-amarathshan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-pixel0604&layout=compact&theme=tokyonight)
-
----
-
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alan-pixel0604&theme=tokyonight)

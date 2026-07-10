@@ -31,8 +31,8 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)https://github.com/alan-amarathshan
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=githu)
 
 ---
 
